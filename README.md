@@ -1,4 +1,0 @@
-WoQUpdater
-==========
-
-WoQ Updater
